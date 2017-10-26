@@ -128,3 +128,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [ervyncruz891](https://github.com/ervyncruz891)
  - [JustinSchrader](https://github.com/justinschrader)
  - [Brookevaughan](https://github.com/BrookeVaughan)
+ - [JarenDuffield](https://github.com/JarenDuffield)
